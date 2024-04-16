@@ -3,3 +3,4 @@
 
 ### 챕터
 * [Chapter01. 협력하는 객체들의 공동체](Chapter01/Chapter01-협력하는-객체들의-공동체.md)
+* [Chapter02. 이상한 나라의 객체](Chapter02/Chapter02-이상한-나라의-객체.md)
